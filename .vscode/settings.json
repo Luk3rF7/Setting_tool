@@ -1,0 +1,21 @@
+{
+  "editor.fontFamily": "monospace",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "editor.fontLigatures": true,
+  "editor.renderLineHighlight": "gutter",
+  "editor.rulers": [79, 120],
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 20,
+  "debug.console.fontSize": 18,
+  "toggleFileEventLogging": true,
+  "explorer.compactFolders": false,
+  "breadcrumbs.enabled": true,
+  "git.enableSmartCommit": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  // Auto fix on save
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll": true
+}
+}
