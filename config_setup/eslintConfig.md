@@ -2,6 +2,7 @@
 
 <h3>Iniciando Eslint</h3>
 <li>npx eslint --init</li>
+<li>npm i -D prettier eslint-plugin-prettier eslint-config-prettier</li>
 <li> Perguntas serao feitas
 <li>to check syntax and find problems</li>
 <li>Se irei utilizar qual import ou require</li>
